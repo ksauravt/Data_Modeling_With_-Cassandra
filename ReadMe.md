@@ -21,6 +21,7 @@ project, I  implemented an ETL pipeline in Python and preprocessed the data in a
 
 ## How to Use
 
-Run this file Project_1B_ Project_Template.ipynb in jupyter. 
+Run the Project_1B_ Project_Template.ipynb file in jupyter. 
+Kernel- Restart Kernel and Run All
 
 
